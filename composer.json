@@ -1,8 +1,8 @@
 {
-    "name": "roroxide/acl-actions",
-    "description": "Light-weight action-based permissions for Laravel 5 built in Auth system.",
+    "name": "roroxide/yos-social-php5",
+    "description": "Yahoo! Social SDK - PHP5 library",
     "license": "MIT",
-    "homepage": "http://github.com/roroxide/acl-actions",
+    "homepage": "http://github.com/roroxide/yos-social-php5",
     "keywords": [ "laravel", "permissions", "roles", "auth", "acl", "security", "eloquent", "actions" ],
     "authors": [
         {
