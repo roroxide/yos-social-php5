@@ -13,12 +13,11 @@
     ],
     "require": {
         "php": ">=5.5.9",
-        "laravel/framework": "~5.2",
-        "roroxide/laravel-acl": "@dev"
+        "laravel/framework": "~5.2"
     },
     "autoload": {
         "psr-4": {
-            "AclActions\\": "src"
+            "YahooSDK\\": "src"
         }
     },
     "minimum-stability": "dev"
