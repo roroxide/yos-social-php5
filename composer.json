@@ -1,0 +1,25 @@
+{
+    "name": "roroxide/acl-actions",
+    "description": "Light-weight action-based permissions for Laravel 5 built in Auth system.",
+    "license": "MIT",
+    "homepage": "http://github.com/roroxide/acl-actions",
+    "keywords": [ "laravel", "permissions", "roles", "auth", "acl", "security", "eloquent", "actions" ],
+    "authors": [
+        {
+            "name": "Roham R.",
+            "homepage": "http://sample.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.5.9",
+        "laravel/framework": "~5.2",
+        "roroxide/laravel-acl": "@dev"
+    },
+    "autoload": {
+        "psr-4": {
+            "AclActions\\": "src"
+        }
+    },
+    "minimum-stability": "dev"
+}
